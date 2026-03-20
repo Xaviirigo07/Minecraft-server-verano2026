@@ -1,4 +1,4 @@
-# $\color{ED96FF}{\text{Introducción (Lean bien por favor)}}$
+# Introducción (Lean bien por favor)
 - Este ModPack tiene un paquete de mods tanto cliente como de servidor, así que es obligatorio descargarlo
 - El $\color{yellow}{\text{.zip}}$ se encuentra en el aparado $\color{FF0000}{\text{"Tags"}}$
 - IP: $\color{red}{\text{true-dies.gl.joinmc.link}}$
