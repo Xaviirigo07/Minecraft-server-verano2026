@@ -13,7 +13,7 @@
   https://www.curseforge.com/download/app
 
 # 2. Instalar en Minecraft Pirata
-1. Instala la versión de Minecraft 1.21.11 y de Fabric la 0.18.4
+1. Instala la versión de Minecraft $\color{green}{\text{1.21.11}}$ y de Fabric la $\color{green}{\text{0.18.4}}$
 2. Descarga y extrae los archivos del $\color{yellow}{\text{.zip}}$ que dice Pirata
 3. Extrae los archivos que hay dentro del $\color{yellow}{\text{.zip}}$ y los copias (mods, resourepacks y shaderpacks)
 4. Pulsa WIN + R y pon AppData, luego entra a Roaming y luego a Minecraft y ahí mismo pegas las carpetas anteriormente mencionadas
