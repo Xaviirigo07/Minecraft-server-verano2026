@@ -1,6 +1,6 @@
 # Introducción (Lean bien por favor)
 - Este ModPack tiene un paquete de mods tanto cliente como de servidor, así que es obligatorio descargarlo
-- El $\color{yellow}{\text{.zip}}$ se encuentra en el aparado "Tags"
+- El $\color{yellow}{\text{.zip}}$ se encuentra en el aparado $\color{FF0000}{\text{"Tags"}}$
 - IP: $\color{red}{\text{true-dies.gl.joinmc.link}}$
 - En el caso de que tengáis comprado el Minecraft, intentad hacer el tutorial 1, en el caso de que no os vaya bien o tengáis el Minecraft pirata, pasad al tutorial 2
 # 1. Instalar en CurseForge
