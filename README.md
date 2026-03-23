@@ -13,7 +13,7 @@ Este ModPack incluye un paquete de mods tanto para cliente como para servidor, p
 3. Dale a *importar perfil* y selecciona el **.zip** que acabas de descargar.
 4. Deja que termine de instalarse y ¡listo!
 
-- 📥 **Descarga el .zip aquí:** [CurseForge.zip](https://github.com/Xaviirigo07/Minecraft-server-verano2026/releases/tag/CurseForge)
+- 📥 **Descarga el .zip aquí:** [NiggaCraft.zip](https://github.com/Xaviirigo07/Minecraft-server-verano2026/releases/tag/CurseForge)
 - 🔗 Si no tienes instalado CurseForge, puedes descargar el instalador [aquí](https://www.curseforge.com/download/app).
 
 ---
