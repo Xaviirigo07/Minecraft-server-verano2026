@@ -18,7 +18,7 @@ Este ModPack incluye un paquete de mods tanto para cliente como para servidor, p
 
 ---
 
-## 2. Instalación en Minecraft No Premium
+## 2. Instalación en Minecraft Base / Pirata
 1. Instala la versión de Minecraft **1.21.11** y la versión **0.18.4** de Fabric.
 2. Descarga el archivo **.zip** que dice *Pirata* (⚠️ **NO** el que dice *Source code.zip*).
 3. Extrae los archivos que hay dentro del **.zip** y copia las carpetas resultantes (`mods`, `resourcepacks` y `shaderpacks`).
