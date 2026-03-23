@@ -13,7 +13,7 @@ Este ModPack incluye un paquete de mods tanto para cliente como para servidor, p
 3. Dale a *importar perfil* y selecciona el **.zip** que acabas de descargar.
 4. Deja que termine de instalarse y ¡listo!
 
-- 📥 **Descarga el .zip aquí:** [Enlace a CurseForge](https://github.com/Xaviirigo07/Minecraft-server-verano2026/releases/tag/CurseForge)
+- 📥 **Descarga el .zip aquí:** [CurseForge.zip](https://github.com/Xaviirigo07/Minecraft-server-verano2026/releases/tag/CurseForge)
 - 🔗 Si no tienes instalado CurseForge, puedes descargar el instalador [aquí](https://www.curseforge.com/download/app).
 
 ---
@@ -25,5 +25,5 @@ Este ModPack incluye un paquete de mods tanto para cliente como para servidor, p
 4. Pulsa `WIN + R`, escribe `%appdata%` y dale a Enter.
 5. Entra a la carpeta `.minecraft` y pega ahí mismo las carpetas que copiaste en el paso 3. Reemplaza los archivos si te lo pide.
 
-- 📥 **Descarga el .zip aquí:** [Enlace a Pirata](https://github.com/Xaviirigo07/Minecraft-server-verano2026/releases/tag/Pirata)
+- 📥 **Descarga el .zip aquí:** [Pirata.zip](https://github.com/Xaviirigo07/Minecraft-server-verano2026/releases/tag/Pirata)
 - 🔗 Si no tienes Fabric instalado, puedes descargar el instalador [aquí](https://fabricmc.net/use/installer/).
