@@ -1,9 +1,9 @@
 # Introducción (Por favor, leer atentamente)
-Este ModPack incluye un paquete de mods tanto para cliente como para servidor, por lo que es **obligatorio** descargarlo para poder jugar.
+Este ModPack incluye un paquete de mods tanto para cliente como para servidor, por lo que es **obligatorio** descargarlo para poder jugar, **NO** actualizes nunca los mods, si quieres una version más reciente descargalo aquí.
 
 - **IP del servidor:** `true-dies.gl.joinmc.link`
 
-> **IMPORTANTE:** Si tienes Minecraft comprado (Premium), intenta primero el **Tutorial 1**, que usa curseforge. Si te da problemas o usas una versión pirata, pasa directamente al **Tutorial 2**.
+> **IMPORTANTE:** Si tienes Minecraft comprado prueba de usar CurseForge, intenta primero el **Tutorial 1*. Si te da problemas o usas una versión pirata, pasa directamente al **Tutorial 2**.
 
 ---
 
