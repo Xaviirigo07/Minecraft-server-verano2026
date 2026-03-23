@@ -3,7 +3,7 @@ Este ModPack incluye un paquete de mods tanto para cliente como para servidor, p
 
 - **IP del servidor:** `true-dies.gl.joinmc.link`
 
-> **Nota:** Si tienes Minecraft comprado (Premium), te recomendamos intentar primero el **Tutorial 1**. Si te da problemas o usas una versión No Premium, pasa directamente al **Tutorial 2**.
+> **IMPORTANTE:** Si tienes Minecraft comprado (Premium), intenta primero el **Tutorial 1**, que usa curseforge. Si te da problemas o usas una versión pirata, pasa directamente al **Tutorial 2**.
 
 ---
 
