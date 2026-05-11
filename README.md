@@ -12,7 +12,7 @@ Este ModPack incluye un paquete de mods tanto para cliente como para servidor, p
    <img width="1217" height="442" alt="Captura de pantalla 2026-05-11 145644" src="https://github.com/user-attachments/assets/3f348b3d-be09-41aa-83c4-7fa5559ff422" />
 2. Entra a la aplicación de CurseForge y ve a la pestaña **Importar** y selecciona el **.zip**
    <img width="752" height="163" alt="Captura de pantalla 2026-05-11 145445" src="https://github.com/user-attachments/assets/815af433-f7ad-4e7c-a3ec-cdda9ec91079" />
-   <img width="622" height="479" alt="Captura de pantalla 2026-05-11 145511" src="https://github.com/user-attachments/assets/7a57b2be-994e-4ea0-844a-c0840e8389a0" />  
+   <img width="1224" height="454" alt="Captura de pantalla 2026-05-11 150419" src="https://github.com/user-attachments/assets/2dd04373-be14-47e4-934e-d9ede0479742" />
 4. Deja que termine de instalarse y ¡listo!
 
 - 📥 **Descarga el .zip aquí:** [NiggaCraft.2.zip](https://github.com/Xaviirigo07/Minecraft-server-verano2026/releases/tag/CurseForge)
@@ -23,9 +23,12 @@ Este ModPack incluye un paquete de mods tanto para cliente como para servidor, p
 ## 2. Instalación en Minecraft Base / Pirata
 1. Instala la versión de Minecraft **1.21.11** y la versión **0.19.2** de Fabric
 2. Descarga el archivo **.zip** que dice *Pirata* (⚠️ **NO** el que dice *Source code.zip*)
-3. Extrae los archivos que hay dentro del **.zip** y copia las carpetas resultantes (`mods`, `resourcepacks` y `shaderpacks`)
-4. Pulsa `WIN + R`, escribe `%appdata%` y dale a Enter.
-5. Entra a la carpeta `.minecraft` y pega ahí mismo las carpetas que copiaste en el paso 3. Reemplaza los archivos si te lo pide
+      <img width="1222" height="458" alt="Captura de pantalla 2026-05-11 150453" src="https://github.com/user-attachments/assets/a5c93b36-38a9-488c-b933-f75ebef6960f" />
+3. Extrae los archivos que hay dentro del **.zip** y copia las carpetas y archivos (`mods`, `resourcepacks`, `shaderpacks`, `config` y **options.txt**)
+4. Pulsa `WIN + R`, escribe `%appdata%` y dale a Enter
+5. Entra a la carpeta `Roaming` y luego la `.minecraft` y pega ahí mismo las carpetas que copiaste en el paso 3. Reemplaza los archivos si te lo pide
+   <img width="104" height="98" alt="Captura de pantalla 2026-05-11 151028" src="https://github.com/user-attachments/assets/9d7dc6e8-8311-4645-86c5-86b1ec0bf157" />
+   <img width="146" height="170" alt="Captura de pantalla 2026-05-11 151056" src="https://github.com/user-attachments/assets/8e8a8c9f-61c3-493c-a5d4-15bd7436b163" />
 
 - 📥 **Descarga el .zip aquí:** [Pirata.zip](https://github.com/Xaviirigo07/Minecraft-server-verano2026/releases/tag/Pirata)
 - 🔗 Si no tienes Fabric instalado, puedes descargar el instalador [aquí](https://fabricmc.net/use/installer/)
