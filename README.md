@@ -9,12 +9,12 @@ Este ModPack incluye un paquete de mods tanto para cliente como para servidor, p
 
 ## 1. Instalación en CurseForge
 1. Necesitas descargar el archivo **.zip** que dice *CurseForge* (⚠️ **NO** el que dice *Source code.zip*).
+   <img width="1217" height="442" alt="Captura de pantalla 2026-05-11 145644" src="https://github.com/user-attachments/assets/3f348b3d-be09-41aa-83c4-7fa5559ff422" />
 2. Entra a la aplicación de CurseForge y ve a la pestaña **Importar**.
-   <img width="622" height="479" alt="Captura de pantalla 2026-05-11 145511" src="https://github.com/user-attachments/assets/2c9837e1-144b-42a5-a92e-145033b12821" />
-<img width="752" height="431" alt="Captura de pantalla 2026-05-11 145445" src="https://github.com/user-attachments/assets/5742b4d8-fabb-46e0-9a37-7aa559685a09" />
-
-4. Dale a *importar perfil* y selecciona el **.zip** que acabas de descargar.
-5. Deja que termine de instalarse y ¡listo!
+<img width="752" height="163" alt="Captura de pantalla 2026-05-11 145445" src="https://github.com/user-attachments/assets/815af433-f7ad-4e7c-a3ec-cdda9ec91079" />
+<img width="622" height="479" alt="Captura de pantalla 2026-05-11 145511" src="https://github.com/user-attachments/assets/7a57b2be-994e-4ea0-844a-c0840e8389a0" />
+3. Dale a *importar perfil* y selecciona el **.zip** que acabas de descargar.
+4. Deja que termine de instalarse y ¡listo!
 
 - 📥 **Descarga el .zip aquí:** [NiggaCraft.2.zip](https://github.com/Xaviirigo07/Minecraft-server-verano2026/releases/tag/CurseForge)
 - 🔗 Si no tienes instalado CurseForge, puedes descargar el instalador [aquí](https://www.curseforge.com/download/app).
