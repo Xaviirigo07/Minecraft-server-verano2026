@@ -12,7 +12,8 @@ Este ModPack incluye un paquete de mods tanto para cliente como para servidor, p
    <img width="1217" height="442" alt="Captura de pantalla 2026-05-11 145644" src="https://github.com/user-attachments/assets/3f348b3d-be09-41aa-83c4-7fa5559ff422" />
 2. Entra a la aplicación de CurseForge y ve a la pestaña **Importar** y selecciona el **.zip**
    <img width="752" height="163" alt="Captura de pantalla 2026-05-11 145445" src="https://github.com/user-attachments/assets/815af433-f7ad-4e7c-a3ec-cdda9ec91079" />
-   <img width="1224" height="454" alt="Captura de pantalla 2026-05-11 150419" src="https://github.com/user-attachments/assets/2dd04373-be14-47e4-934e-d9ede0479742" />
+   <img width="622" height="479" alt="Captura de pantalla 2026-05-11 145511" src="https://github.com/user-attachments/assets/e691b627-9764-45a5-bf05-07ddfd614e7f" />
+
 4. Deja que termine de instalarse y ¡listo!
 
 - 📥 **Descarga el .zip aquí:** [NiggaCraft.2.zip](https://github.com/Xaviirigo07/Minecraft-server-verano2026/releases/tag/CurseForge)
