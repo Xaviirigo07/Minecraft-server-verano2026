@@ -28,7 +28,8 @@ Este ModPack incluye un paquete de mods tanto para cliente como para servidor, p
 4. Pulsa `WIN + R`, escribe `%appdata%` y dale a Enter
 5. Entra a la carpeta `Roaming` y luego la `.minecraft` y pega ahí mismo las carpetas que copiaste en el paso 3. Reemplaza los archivos si te lo pide
    <img width="104" height="98" alt="Captura de pantalla 2026-05-11 151028" src="https://github.com/user-attachments/assets/9d7dc6e8-8311-4645-86c5-86b1ec0bf157" />
-   <img width="146" height="170" alt="Captura de pantalla 2026-05-11 151056" src="https://github.com/user-attachments/assets/8e8a8c9f-61c3-493c-a5d4-15bd7436b163" />
+   <img width="146" height="144" alt="Captura de pantalla 2026-05-11 151234" src="https://github.com/user-attachments/assets/aa40f08a-b200-4901-b9d6-a9f1fe2c3789" />
+
 
 - 📥 **Descarga el .zip aquí:** [Pirata.zip](https://github.com/Xaviirigo07/Minecraft-server-verano2026/releases/tag/Pirata)
 - 🔗 Si no tienes Fabric instalado, puedes descargar el instalador [aquí](https://fabricmc.net/use/installer/)
