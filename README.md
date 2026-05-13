@@ -23,7 +23,7 @@ Este ModPack incluye un paquete de mods tanto para cliente como para servidor, p
 
 ## 2. Instalación en Minecraft Base
 1. Instala la versión de Minecraft **1.21.11** y la versión **0.19.2** de Fabric
-2. Descarga el archivo **.zip** que dice *Niggacraft 2* (⚠️ **NO** el que dice *Source code.zip*)
+2. Descarga el archivo **.zip** que dice *All* (⚠️ **NO** el que dice *Source code.zip*)
       <img width="1222" height="458" alt="Captura de pantalla 2026-05-11 150453" src="https://github.com/user-attachments/assets/a5c93b36-38a9-488c-b933-f75ebef6960f" />
 3. Extrae los archivos que hay dentro del **.zip** y copia las carpetas y archivos (`mods`, `resourcepacks`, `shaderpacks`, `config` y **options.txt**)
 4. Pulsa `WIN + R`, escribe `%appdata%` y dale a Enter
@@ -31,7 +31,7 @@ Este ModPack incluye un paquete de mods tanto para cliente como para servidor, p
    <img width="104" height="98" alt="Captura de pantalla 2026-05-11 151028" src="https://github.com/user-attachments/assets/9d7dc6e8-8311-4645-86c5-86b1ec0bf157" />
    <img width="146" height="144" alt="Captura de pantalla 2026-05-11 151234" src="https://github.com/user-attachments/assets/aa40f08a-b200-4901-b9d6-a9f1fe2c3789" />
 
-- 📥 **Descarga el .zip aquí:** [Pirata.zip](https://github.com/Xaviirigo07/Minecraft-server-verano2026/releases/tag/Pirata)
+- 📥 **Descarga el .zip aquí:** [All.zip](https://github.com/Xaviirigo07/Minecraft-server-verano2026/releases/tag/Pirata)
 - 🔗 Si no tienes Fabric instalado, puedes descargar el instalador [aquí](https://fabricmc.net/use/installer/)
 
 ## 3. Instalación en Minecraft Pirata
