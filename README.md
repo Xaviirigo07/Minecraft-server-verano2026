@@ -36,5 +36,5 @@ Este ModPack incluye un paquete de mods tanto para cliente como para servidor, p
 - 🔗 Si no tienes Fabric instalado, puedes descargar el instalador [aquí](https://fabricmc.net/use/installer/)
 
 ## 3. Instalación en Minecraft Pirata
-1. Vete a tú launcher pirata y descarga el perfil de la 1.21.11 y en la versión de fabric de la 0.19.2
+1. Vete a tú launcher pirata y instala la versión de Minecraft **1.21.11** y la versión **0.19.2** de Fabric
 2. En este punto continua desde el punto 2 en el apartado 2 
