@@ -23,7 +23,7 @@ Este ModPack incluye un paquete de mods tanto para cliente como para servidor, p
 
 ## 2. Instalación en Minecraft Base
 1. Instala la versión de Minecraft **1.21.11** y la versión **0.19.2** de Fabric
-2. Descarga el archivo **.zip** que dice *Niggacraft.2.zip* (⚠️ **NO** el que dice *Source code.zip*)
+2. Descarga el archivo **.zip** que dice *Niggacraft 2* (⚠️ **NO** el que dice *Source code.zip*)
       <img width="1222" height="458" alt="Captura de pantalla 2026-05-11 150453" src="https://github.com/user-attachments/assets/a5c93b36-38a9-488c-b933-f75ebef6960f" />
 3. Extrae los archivos que hay dentro del **.zip** y copia las carpetas y archivos (`mods`, `resourcepacks`, `shaderpacks`, `config` y **options.txt**)
 4. Pulsa `WIN + R`, escribe `%appdata%` y dale a Enter
@@ -35,6 +35,5 @@ Este ModPack incluye un paquete de mods tanto para cliente como para servidor, p
 - 🔗 Si no tienes Fabric instalado, puedes descargar el instalador [aquí](https://fabricmc.net/use/installer/)
 
 ## 3. Instalación en Minecraft Pirata
-1. El proceso es casi identico al del punto 2,lo que varia es el tener el minecraft 1.21.11 en fabric en la 0.19.2
-2. Vete a tú launcher pirata y descarga el perfil de la 1.21.11 y en la versión de fabric de la 0.19.2
-3. En este punto continua desde el punto 2 en el apartado 2 
+1. Vete a tú launcher pirata y descarga el perfil de la 1.21.11 y en la versión de fabric de la 0.19.2
+2. En este punto continua desde el punto 2 en el apartado 2 
