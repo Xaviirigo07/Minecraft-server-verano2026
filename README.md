@@ -28,6 +28,7 @@ Este ModPack incluye un paquete de mods tanto para cliente como para servidor, p
 3. Extrae los archivos que hay dentro del **.zip** y copia las carpetas y archivos (`mods`, `resourcepacks`, `shaderpacks`, `config` y **options.txt**)
 4. Pulsa `WIN + R`, escribe `%appdata%` y dale a Enter
 5. Entra a la carpeta `Roaming` y luego la `.minecraft` y pega ahí mismo las carpetas que copiaste en el paso 3. Reemplaza los archivos si te lo pide
+
    <img width="104" height="98" alt="Captura de pantalla 2026-05-11 151028" src="https://github.com/user-attachments/assets/9d7dc6e8-8311-4645-86c5-86b1ec0bf157" />
    <img width="146" height="144" alt="Captura de pantalla 2026-05-11 151234" src="https://github.com/user-attachments/assets/aa40f08a-b200-4901-b9d6-a9f1fe2c3789" />
 
