@@ -40,4 +40,5 @@ Este ModPack incluye un paquete de mods tanto para cliente como para servidor, p
 
 ## 3. Instalación en Minecraft Pirata
 1. Vete a tú launcher pirata y instala la versión de Minecraft **1.21.11** y la versión **0.19.2** de Fabric
-2. En este punto continua desde el punto 2 en el apartado 2 
+2. En este punto continua desde el punto 2 en el apartado 2
+3. Al finalizar la instalación de la instancia, vete a la configuracíon de la instancia y veral algo así: -Xmx2048m -Xms256m etc..., lo tienes que establecer por: -Xmx8196m -Xms256m etc...
