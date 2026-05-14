@@ -28,7 +28,7 @@ Este ModPack incluye un paquete de mods tanto para cliente como para servidor, p
 1. Instala la versión de Minecraft **1.21.11** y la versión **0.19.2** de Fabric
 2. Descarga el archivo **All.zip** (⚠️ **NO** el que dice *Source code.zip*)
    <img width="1222" height="458" alt="Captura de pantalla 2026-05-11 150453" src="https://github.com/user-attachments/assets/a5c93b36-38a9-488c-b933-f75ebef6960f" />
-3. Extrae los archivos que hay dentro del **.zip** y copia las carpetas y archivos (`mods`, `resourcepacks`, `shaderpacks`, `config`, **options.txt** y **server.dat**)
+3. Extrae los archivos que hay dentro del **.zip** y copia las carpetas y archivos (`mods`, `resourcepacks`, `shaderpacks`, `config`, **options.txt** y **servers.dat**)
 4. Pulsa `WIN + R`, escribe `%appdata%` y dale a Enter
 5. Entra a la carpeta `Roaming` y luego la `.minecraft` y pega ahí mismo las carpetas que copiaste en el paso 3. Reemplaza los archivos si te lo pide
 
