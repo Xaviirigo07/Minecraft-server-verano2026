@@ -37,6 +37,7 @@ Este ModPack incluye un paquete de mods tanto para cliente como para servidor, p
 4. Extrae los archivos que hay dentro del **.zip** y copia las carpetas y archivos (`mods`, `resourcepacks`, `shaderpacks`, `config`, **options.txt** y **servers.dat**)
 5. Pulsa `WIN + R`, escribe `%appdata%` y dale a Enter
 6. Entra a la carpeta `Roaming` y luego la `.minecraft` y pega ahí mismo las carpetas que copiaste en el paso 3. Reemplaza los archivos si te lo pide
+7. Al finalizar la instalación de la instancia, vete a la configuracíon de la instancia (y ajustes avanzados) y veras algo así: -Xmx2048m -Xms256m etc..., lo tienes que establecer por: -Xmx8196m -Xms256m etc..., esto se hace para dedicar al juego 8GB de RAM en vez de 2GB de ram, ya que con los mods de por si el consumo se eleva a entre 4GB y 6GB de RAM
 
    <img width="104" height="98" alt="Captura de pantalla 2026-05-11 151028" src="https://github.com/user-attachments/assets/9d7dc6e8-8311-4645-86c5-86b1ec0bf157" />
    <img width="146" height="144" alt="Captura de pantalla 2026-05-11 151234" src="https://github.com/user-attachments/assets/aa40f08a-b200-4901-b9d6-a9f1fe2c3789" />
@@ -49,4 +50,3 @@ Este ModPack incluye un paquete de mods tanto para cliente como para servidor, p
 ## 3. Instalación en Minecraft Pirata
 1. Vete a tú launcher pirata y instala la versión de Minecraft **1.21.11** y la versión **0.19.2** de Fabric
 2. En este punto continua desde el punto 2 en el apartado 2
-3. Al finalizar la instalación de la instancia, vete a la configuracíon de la instancia y veras algo así: -Xmx2048m -Xms256m etc..., lo tienes que establecer por: -Xmx8196m -Xms256m etc..., esto se hace paradedicar al juego 8GB de RAM en vez de 2GB de ram, ya que con los mods de por si el consumo se eleva a 6GB
